@@ -25,4 +25,20 @@ I am really excited today for starting this challenge. Worked on basics of linux
 
 **Links to Work:** 
 
-* [codecadmy](https://www.codecademy.com/learn/learn-the-command-line)
+* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+
+
+### Day 2: April 29, 2020 
+
+**Today's Progress**: 
+
+Today I learned Command line basics (Viewing and Changing the File System) and compelted the quiz
+the second top and got 100%
+
+**Thoughts:** 
+
+I learned lot of exciting things about terminal copy files, moving files and deleting files thorugh terminal.
+
+**Links to Work:** 
+
+* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
