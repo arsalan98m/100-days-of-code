@@ -42,3 +42,19 @@ I learned lot of exciting things about terminal copy files, moving files and del
 **Links to Work:** 
 
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+
+### Day 3: April 30, 2020 
+
+**Today's Progress**: 
+
+Continued codecademy course command line basics
+Learn to manipulate directories and files from the command line.
+
+
+**Thoughts:** 
+
+I learned how to manipulate directories and file through command line without graphical user interface
+
+**Links to Work:** 
+
+* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
