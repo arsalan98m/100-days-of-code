@@ -58,3 +58,19 @@ I learned how to manipulate directories and file through command line without gr
 **Links to Work:** 
 
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+
+### Day 4: May 1, 2020 
+
+**Today's Progress**: 
+
+Continued codecademy course command line basics
+Learn to configure the environment using the command line.
+
+
+**Thoughts:** 
+
+I learned about the nano editor how it is used in  a command line text editor and hot to  configure the environment.
+
+**Links to Work:** 
+
+* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
