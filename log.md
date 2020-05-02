@@ -74,3 +74,20 @@ I learned about the nano editor how it is used in  a command line text editor an
 **Links to Work:** 
 
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+
+
+### Day 5: May 2, 2020 
+
+**Today's Progress**: 
+
+Completed course command line basics
+Today I learned how to automate common tasks using bash scripting.
+
+
+**Thoughts:** 
+
+I learned how to automate common tasks using bash scripting.
+
+**Links to Work:** 
+
+* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
