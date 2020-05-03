@@ -91,3 +91,21 @@ I learned how to automate common tasks using bash scripting.
 **Links to Work:** 
 
 * [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+
+### Day 6: May 3, 2020 
+
+**Today's Progress**: 
+
+Today Started learning Docker.
+- I learned how container and images are working.
+- What is docker
+- what is docker engine
+
+
+**Thoughts:** 
+
+I learned lot of things about docker, what is docker, pulled some images on docker hub, removed images.
+
+**Links to Work:** 
+
+* [Docker Deep Dive Nigel Poulton]
