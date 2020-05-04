@@ -1,111 +1,122 @@
 # 100 Days Of Code - Log
 
+### Day 0: April 27, 2020
 
-### Day 0: April 27, 2020 
+**Today's Progress**:
 
-**Today's Progress**: 
+Prep day! Setting up everything so that the rest of the challenge will be easier for me to manage. I also have decided that I am going to use this challenge to get me started coding every day this year.
 
-Prep day! Setting up everything so that the rest of the challenge will be easier for me to manage. I also have decided that I am going to use this challenge to get me started coding every day this year. 
-
-**Thoughts:** 
+**Thoughts:**
 
 I'm really excited to get started on the challenge. I think that Tweeting and writing blog posts will really help keep me on track.
 
+### Day 1: April 28, 2020
 
-### Day 1: April 28, 2020 
-
-**Today's Progress**: 
+**Today's Progress**:
 
 Today I learned Command line basics (Navigating the file system) and compelted
 the first module and got 100%
 
-**Thoughts:** 
+**Thoughts:**
 
-I am really excited today for starting this challenge. Worked on basics of linux command 
+I am really excited today for starting this challenge. Worked on basics of linux command
 
-**Links to Work:** 
+**Links to Work:**
 
-* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
+### Day 2: April 29, 2020
 
-### Day 2: April 29, 2020 
-
-**Today's Progress**: 
+**Today's Progress**:
 
 Today I learned Command line basics (Viewing and Changing the File System) and compelted the quiz
 the second top and got 100%
 
-**Thoughts:** 
+**Thoughts:**
 
 I learned lot of exciting things about terminal copy files, moving files and deleting files thorugh terminal.
 
-**Links to Work:** 
+**Links to Work:**
 
-* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
-### Day 3: April 30, 2020 
+### Day 3: April 30, 2020
 
-**Today's Progress**: 
+**Today's Progress**:
 
 Continued codecademy course command line basics
 Learn to manipulate directories and files from the command line.
 
-
-**Thoughts:** 
+**Thoughts:**
 
 I learned how to manipulate directories and file through command line without graphical user interface
 
-**Links to Work:** 
+**Links to Work:**
 
-* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
-### Day 4: May 1, 2020 
+### Day 4: May 1, 2020
 
-**Today's Progress**: 
+**Today's Progress**:
 
 Continued codecademy course command line basics
 Learn to configure the environment using the command line.
 
+**Thoughts:**
 
-**Thoughts:** 
+I learned about the nano editor how it is used in a command line text editor and hot to configure the environment.
 
-I learned about the nano editor how it is used in  a command line text editor and hot to  configure the environment.
+**Links to Work:**
 
-**Links to Work:** 
+- [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
-* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+### Day 5: May 2, 2020
 
-
-### Day 5: May 2, 2020 
-
-**Today's Progress**: 
+**Today's Progress**:
 
 Completed course command line basics
 Today I learned how to automate common tasks using bash scripting.
 
-
-**Thoughts:** 
+**Thoughts:**
 
 I learned how to automate common tasks using bash scripting.
 
-**Links to Work:** 
+**Links to Work:**
 
-* [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
+- [codecademy](https://www.codecademy.com/learn/learn-the-command-line)
 
-### Day 6: May 3, 2020 
+### Day 6: May 3, 2020
 
-**Today's Progress**: 
+**Today's Progress**:
 
 Today Started learning Docker.
+
 - I learned how container and images are working.
 - What is docker
 - what is docker engine
 
-
-**Thoughts:** 
+**Thoughts:**
 
 I learned lot of things about docker, what is docker, pulled some images on docker hub, removed images.
 
-**Links to Work:** 
+**Links to Work:**
 
-* [Docker Deep Dive Nigel Poulton]
+- [Docker Deep Dive Nigel Poulton]
+
+### Day 7: May 4, 2020
+
+**Today's Progress**:
+
+Today Started learning Docker.
+
+- Today i learned what is container, how containers work and container life cycle operations
+- I learned how to create containers
+- how to start, stop and remove containers
+
+**Thoughts:**
+
+I learned about containers how containers are working in docker, i learned what are the major components of docker, dockers apis, shim runc and other components.
+
+**Links to Work:**
+
+- [Docker Deep Dive Nigel Poulton]
