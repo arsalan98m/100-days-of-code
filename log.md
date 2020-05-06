@@ -107,8 +107,6 @@ I learned lot of things about docker, what is docker, pulled some images on dock
 
 **Today's Progress**:
 
-Today Started learning Docker.
-
 - Today i learned what is container, how containers work and container life cycle operations
 - I learned how to create containers
 - how to start, stop and remove containers
@@ -116,6 +114,40 @@ Today Started learning Docker.
 **Thoughts:**
 
 I learned about containers how containers are working in docker, i learned what are the major components of docker, dockers apis, shim runc and other components.
+
+**Links to Work:**
+
+- [Docker Deep Dive Nigel Poulton]
+
+### Day 8: May 5, 2020
+
+**Today's Progress**:
+
+- Today i containerized my first application on docker
+
+- I learned how to create imgaes and used these images to create containers.
+
+**Thoughts:**
+
+I learned how to build images using docker and how to containerized over application using docker and also learned about Dockerfile which describe our application code and its dependencies
+
+**Links to Work:**
+
+- [Docker Deep Dive Nigel Poulton]
+
+### Day 9: May 6, 2020
+
+**Today's Progress**:
+
+- Today i learned volumes and bind mounts
+
+- I learned using bind mount, a file or a directory on the host machine is mounted into a container.
+- I learned how to attached docker volumes to containers during a docker run command by using the -v flag
+
+**Thoughts:**
+
+Docker volumes are important beacause when a docker container is destroyed, it's entire file system is destroyed too. So if we want to keep this data, it is necessary that we use Docker volumes.
+Completed 8 Chapters Finally....
 
 **Links to Work:**
 
