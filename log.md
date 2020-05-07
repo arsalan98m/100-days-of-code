@@ -152,3 +152,19 @@ Completed 8 Chapters Finally....
 **Links to Work:**
 
 - [Docker Deep Dive Nigel Poulton]
+
+### Day 10: May 6, 2020
+
+**Today's Progress**:
+
+- Today i started learning html-css and covverd topics flex-box
+
+- I learned how i use new css property flex to responsive my website
+
+**Thoughts:**
+
+I covered how to use flexbox and the different layout options it offers. It arranges elements in predictable way for different screen sizes and browsers.
+
+**Links to Work:**
+
+- freecodecamp
