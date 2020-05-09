@@ -182,3 +182,17 @@ I covered how to use flexbox and the different layout options it offers. It arra
 **Links to Work:**
 
 - freecodecamp
+
+### Day 12: May 9, 2020
+
+**Today's Progress**:
+
+Started CSS Grid on freecodecamp
+
+**Thoughts:**
+
+I covered how to design consistent layouts more easily across browsers.
+
+**Links to Work:**
+
+- freecodecamp
