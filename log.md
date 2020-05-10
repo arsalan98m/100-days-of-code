@@ -196,3 +196,17 @@ I covered how to design consistent layouts more easily across browsers.
 **Links to Work:**
 
 - freecodecamp
+
+### Day 13: May 10, 2020
+
+**Today's Progress**:
+
+Day 13 100% done CSS Grid on freecodecamp and going to start Responsive Web Design Projects
+
+**Thoughts:**
+
+Today I learned more about CSS Grid and Completed Exercises CSS Grid and Going to start Responsive Web Design Projects
+
+**Links to Work:**
+
+- freecodecamp
