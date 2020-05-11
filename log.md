@@ -210,3 +210,14 @@ Today I learned more about CSS Grid and Completed Exercises CSS Grid and Going t
 **Links to Work:**
 
 - freecodecamp
+
+### Day 14: May 11, 2020
+
+**Today's Progress**:
+
+Today I worked on Travelly | Travel Agency Project
+
+**Thoughts:**
+I use CSS FLexbox Techniques to Build a resposive Website
+
+**Links to Work:**
