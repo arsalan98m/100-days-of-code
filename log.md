@@ -221,3 +221,17 @@ Today I worked on Travelly | Travel Agency Project
 I use CSS FLexbox Techniques to Build a resposive Website
 
 **Links to Work:**
+
+### Day 15: May 13, 2020
+
+**Today's Progress**:
+
+Working on Project Tribute Page #freecodecamp
+
+**Thoughts:**
+As a first step, I made a sample tribute page using Html.
+
+Then tomorrow I'll start to add styling using CSS.
+
+**Links to Work:**
+freecodecamp
