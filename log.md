@@ -235,3 +235,26 @@ Then tomorrow I'll start to add styling using CSS.
 
 **Links to Work:**
 freecodecamp
+
+### Day 16: May 14, 2020
+
+**Today's Progress**:
+
+Today I Started Kubernetes
+
+**Thoughts:**
+Learned the Chapter 1 of Kubernetes in Action in chapter 1 i learned what is monolithic and microservices , how kubernetes automate the deployment of applications.
+
+**Links to Work:**
+Manning Kubernetes in Action
+
+### Day 17: May 14, 2020
+
+**Today's Progress**:
+
+Completed 1st RWD Project (Tribute Page for Saylani)
+
+**Thoughts:**
+
+**Links to Work:**
+freecodecamp
