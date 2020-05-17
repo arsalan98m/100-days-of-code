@@ -248,11 +248,22 @@ Learned the Chapter 1 of Kubernetes in Action in chapter 1 i learned what is mon
 **Links to Work:**
 Manning Kubernetes in Action
 
-### Day 17: May 14, 2020
+### Day 17: May 15, 2020
 
 **Today's Progress**:
 
 Completed 1st RWD Project (Tribute Page for Saylani)
+
+**Thoughts:**
+
+**Links to Work:**
+freecodecamp
+
+### Day 18: May 16, 2020
+
+**Today's Progress**:
+
+Completed 2nd RWD Project (Survey Form)
 
 **Thoughts:**
 
