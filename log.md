@@ -269,3 +269,13 @@ Completed 2nd RWD Project (Survey Form)
 
 **Links to Work:**
 freecodecamp
+
+### Day 19: May 17, 2020
+
+**Today's Progress**:
+
+Working on Photography Project In this project im using Html and CSS Grid
+
+**Thoughts:**
+
+**Links to Work:**
