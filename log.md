@@ -280,7 +280,7 @@ Working on Photography Project In this project im using Html and CSS Grid
 
 **Links to Work:**
 
-### Day 20: May 17, 2020
+### Day 20: May 18, 2020
 
 **Today's Progress**:
 
@@ -289,3 +289,15 @@ Completed Project Elena Joy Photography
 **Thoughts:**
 
 **Links to Work:**
+
+### Day 21: May 19, 2020
+
+**Today's Progress**:
+
+Setup minikube and Kubectl on my laptop and covered pods in Kubernetes
+
+**Thoughts:**
+Learned About minikube how to start minikube and how to check nodes and clusters.
+**Links to Work:**
+
+Manning Kubernetes in Action
