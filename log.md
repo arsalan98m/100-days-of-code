@@ -279,3 +279,13 @@ Working on Photography Project In this project im using Html and CSS Grid
 **Thoughts:**
 
 **Links to Work:**
+
+### Day 20: May 17, 2020
+
+**Today's Progress**:
+
+Completed Project Elena Joy Photography
+
+**Thoughts:**
+
+**Links to Work:**
