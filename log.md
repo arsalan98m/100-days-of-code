@@ -324,3 +324,15 @@ Completed 3rd Project of Responsive Web Design Priciples (Product Landing Page).
 **Links to Work:**
 
 freecodecam
+
+### Day 24: May 22, 2020
+
+**Today's Progress**:
+
+Completed 4th Project of Responsive Web Design Priciples (Technical Documentation Page).
+
+**Thoughts:**
+
+**Links to Work:**
+
+freecodecam
