@@ -301,3 +301,14 @@ Learned About minikube how to start minikube and how to check nodes and clusters
 **Links to Work:**
 
 Manning Kubernetes in Action
+
+### Day 22: May 20, 2020
+
+**Today's Progress**:
+
+Today I covered kubernetes topics Nodes, Pods and Yaml File.
+**Thoughts:**
+I learned about worker nodes and why we need pods, what are pods and whats is yaml files and how to create yaml files
+**Links to Work:**
+
+Manning Kubernetes in Action
