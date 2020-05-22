@@ -312,3 +312,15 @@ I learned about worker nodes and why we need pods, what are pods and whats is ya
 **Links to Work:**
 
 Manning Kubernetes in Action
+
+### Day 23: May 21, 2020
+
+**Today's Progress**:
+
+Completed 3rd Project of Responsive Web Design Priciples (Product Landing Page).
+
+**Thoughts:**
+
+**Links to Work:**
+
+freecodecam
