@@ -359,3 +359,15 @@ Today I learned chapter 2 of Manning Kubernetes in Action.
 **Links to Work:**
 
 Manning Kubernetes in Action
+
+### Day 27: May 25, 2020
+
+**Today's Progress**:
+
+Today I learned how to create pods and how to write YAML files, how to group pods and labels, and finally created some pods, and run containers inside pods
+
+**Thoughts:**
+
+**Links to Work:**
+
+Manning Kubernetes in Action
