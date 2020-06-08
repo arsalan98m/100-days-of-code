@@ -348,3 +348,14 @@ Started Learning Python Crash Course Book and Today I covered Functions Chapter.
 **Links to Work:**
 
 Python crash course book
+
+### Day 26: May 24, 2020
+
+**Today's Progress**:
+
+Today I learned chapter 2 of Manning Kubernetes in Action.
+**Thoughts:**
+
+**Links to Work:**
+
+Manning Kubernetes in Action
