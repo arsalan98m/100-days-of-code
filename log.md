@@ -371,3 +371,16 @@ Today I learned how to create pods and how to write YAML files, how to group pod
 **Links to Work:**
 
 Manning Kubernetes in Action
+
+### Day 28: May 26, 2020
+
+**Today's Progress**:
+
+Finally Completed Responsive Web Design Module yehhhhhh
+
+**Thoughts:**
+First phase of freecode completed
+
+**Links to Work:**
+
+freecodecamp
