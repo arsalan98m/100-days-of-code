@@ -384,3 +384,14 @@ First phase of freecode completed
 **Links to Work:**
 
 freecodecamp
+
+### Day 29: May 27, 2020
+
+**Today's Progress**:
+
+Today I learned how to labeling pods, pods listing with labels, assign labels to exist pods, modifying existing labels of existing pods, and labeling pods at runtime.
+**Thoughts:**
+
+**Links to Work:**
+
+Manning Kubernetes in Action
