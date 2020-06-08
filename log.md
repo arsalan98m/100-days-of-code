@@ -395,3 +395,14 @@ Today I learned how to labeling pods, pods listing with labels, assign labels to
 **Links to Work:**
 
 Manning Kubernetes in Action
+
+### Day 30: May 27, 2020
+
+**Today's Progress**:
+
+Today I started Learning JavaScript, covered alert, console.log, variables, document.write
+**Thoughts:**
+
+**Links to Work:**
+
+a smarter way to learn JavaScript
