@@ -336,3 +336,15 @@ Completed 4th Project of Responsive Web Design Priciples (Technical Documentatio
 **Links to Work:**
 
 freecodecam
+
+### Day 25: May 23, 2020
+
+**Today's Progress**:
+
+Started Learning Python Crash Course Book and Today I covered Functions Chapter..
+
+**Thoughts:**
+
+**Links to Work:**
+
+Python crash course book
